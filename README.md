@@ -4,7 +4,7 @@ Lily wakefield dot com au
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
 </head>
 <body>
 
