@@ -1,7 +1,6 @@
 # Lily Wakefield Dot Com dot Au Coming soon
 Lily wakefield dot com au
 <h2>big things r comin</h2>
-<!DOCTYPE html>
 <html>
 <head>
   <link rel="icon" type="image/x-icon" href="/favicon.png">
