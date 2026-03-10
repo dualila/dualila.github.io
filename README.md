@@ -3,7 +3,7 @@ Lily wakefield dot com au
 <h2>big things r comin</h2>
 <html>
 <head>
-  <link rel="icon" type="image/x-icon" href="/favicon.png">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body>
 
