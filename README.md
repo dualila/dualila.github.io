@@ -1,3 +1,13 @@
-# Lily Wakefield Dot Com dot Au Coming soon
-Lily wakefield dot com au
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lily wakefield dot com do</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+    <h1>lily wakefield dot com dot au</h1>
+    <h2> new and improved css skills coming soon</h2>
+</body>
+</html>
