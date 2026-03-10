@@ -4,13 +4,12 @@ Lily wakefield dot com au
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Page Title</title>
-  <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body>
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
-
+<h6> this is ur mum</h6>
 </body>
 </html>
